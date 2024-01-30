@@ -1,0 +1,1 @@
+This is responsive for most of the devices, may be it is not responsive for mobile devices, but don't worry i also can do it. just look at my work. if i can make it i can responsive it too, it is perfectly working till tablet sizes. thank you 
